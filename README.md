@@ -8,7 +8,7 @@ This project is a Single Page Application (SPA) built using React and CSS. It se
 - Quick Start: Users can quickly get started by selecting one of the suggested cocktails or one of the five liquors available on the page. Additionally, non-alcoholic options are also provided.
 - Favorites: Users can store their favorite cocktails and view them in the favorites tab.
 
-## Sipster IDP Project
+## Sipster.IDP Project
 
 The Sipster IDP project is responsible for handling the security aspects of the application. It utilizes IdentityServer 3 with Entity Framework Core for secure authentication and authorization. It also integrates with Facebook and Google for external login functionality.
 
